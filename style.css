@@ -188,7 +188,7 @@ section .title::after{
   }
   
   .parallax {
-    background-image: url('scean.jpg');
+    background: red;
     background-size: cover;
     background-position: center;
     height: 95vh;
