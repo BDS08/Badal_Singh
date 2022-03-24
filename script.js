@@ -55,7 +55,7 @@ function parallax() {
 
   // typing text animation script
   var typed = new Typed(".typing", {
-      strings: ["Web Developer", "UI Designer", "YouTuber"],
+      strings: ["Web Developer", "UX/UI Designer", "Coding Enthusiast"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true
